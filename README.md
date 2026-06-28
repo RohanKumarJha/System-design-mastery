@@ -15,10 +15,10 @@ Principles
  
 Design Pattern
 1. Creational : How object created
-   Singelton*, Factory*, Abstract Factory*, Builder*, Prototype*
+  -> Singelton*, Factory*, Abstract Factory*, Builder*, Prototype*
 2. Structural : How class are structured
-   Adapter*, Decorator*, Facade*, Proxy*, Composite, Bridge, Flyweight 
+  -> Adapter*, Decorator*, Facade*, Proxy*, Composite, Bridge, Flyweight 
 3. Behavioural : How objects interact to each other
-   Strategy*, Observer*, Command, Chain of Responsibility, State, Template*, Iterator, Mediator, Memnto, Interpreter, Visitor
+  -> Strategy*, Observer*, Command, Chain of Responsibility, State, Template*, Iterator, Mediator, Memnto, Interpreter, Visitor
 
 * : Most Important design patterns
